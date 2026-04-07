@@ -11,11 +11,11 @@ System Administrator | Network Administrator | Database Administrator
 
 Passionate IT professional specialized in:
 
-✔ System Administration (Linux / Windows)  
-✔ Network Infrastructure & Security  
-✔ Database Administration (Oracle / SQL)  
-✔ Cybersecurity & Monitoring  
-✔ IT Infrastructure Automation  
+ System Administration (Linux / Windows)  
+ Network Infrastructure & Security  
+ Database Administration (Oracle / SQL)  
+ Cybersecurity & Monitoring  
+ IT Infrastructure Automation  
 
 I enjoy building secure, reliable, and efficient IT environments while continuously learning new technologies.
 
